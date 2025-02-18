@@ -36,6 +36,8 @@ In addition to my professional expertise, I use my time to familiarize myself wi
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-grey?style=for-the-badge&logo=Bootstrap)](https://getbootstrap.com/ "Go to Bootstrap W3Schools")
 [![Unity](https://img.shields.io/badge/Unity-grey?style=for-the-badge&logo=unity)](https://unity.com/de "Go to Unity homepage")
 [![Unreal](https://img.shields.io/badge/unreal-grey?style=for-the-badge&logo=unrealengine)](https://www.unrealengine.com/de "Go to Unreal homepage")
+[![Godot Engine](https://img.shields.io/badge/Godot-grey?style=for-the-badge&logo=godot-engine)](https://godotengine.org/ "Go to GoDot homepage")
+[![SteamVR](https://img.shields.io/badge/SteamVR-grey?style=for-the-badge&logo=steam)]()
 [![Android](https://img.shields.io/badge/android-grey?style=for-the-badge&logo=android)](https://www.android.com/intl/de_de/ "Go to Android homepage")
 [![IOS](https://img.shields.io/badge/ios-grey?style=for-the-badge&logo=ios)](https://developer.apple.com/documentation "Go to Apple dev homepage")
 
