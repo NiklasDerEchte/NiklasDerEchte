@@ -18,6 +18,7 @@ In addition to my professional expertise, I use my time to familiarize myself wi
 [![Firebase](https://img.shields.io/badge/firebase-grey?style=for-the-badge&logo=firebase)](https://firebase.google.com/ "Go to Firebase homepage")
 [![NumPy](https://img.shields.io/badge/numpy-grey?style=for-the-badge&logo=numpy)](https://numpy.org/ "Go to NumPy homepage")
 [![Matplotlib](https://img.shields.io/badge/matplotlib-grey?style=for-the-badge&logo=matplotlib)](https://matplotlib.org/ "Go to Matplotlib homepage")
+[![TensorFlow](https://img.shields.io/badge/tensorflow-grey?style=for-the-badge&logo=tensorflow)](https://www.tensorflow.org/ "Go to TensorFlow homepage")
 [![Pandas](https://img.shields.io/badge/pandas-grey?style=for-the-badge&logo=pandas)](https://pandas.pydata.org/ "Go to Pandas homepage")
 [![Chart.js](https://img.shields.io/badge/Chart.js-grey?style=for-the-badge&logo=chartdotjs)](https://www.chartjs.org/ "Go to Chart.js homepage")
 [![Java](https://img.shields.io/badge/java-grey?style=for-the-badge&logo=openjdk)](https://openjdk.org/ "Go to OpenJDK homepage")
