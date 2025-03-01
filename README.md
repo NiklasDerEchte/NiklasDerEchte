@@ -12,6 +12,8 @@ In addition to my professional expertise, I use my time to familiarize myself wi
 [![Matplotlib](https://img.shields.io/badge/matplotlib-grey?style=for-the-badge&logo=matplotlib)](https://matplotlib.org/ "Go to Matplotlib homepage")
 [![Pandas](https://img.shields.io/badge/pandas-grey?style=for-the-badge&logo=pandas)](https://pandas.pydata.org/ "Go to Pandas homepage")
 [![Selenium](https://img.shields.io/badge/selenium-grey?style=for-the-badge&logo=selenium)](https://www.selenium.dev/ "Go to Selenium homepage")
+[![OpenGL](https://img.shields.io/badge/opengl-grey?style=for-the-badge&logo=opengl)](https://www.opengl.org/ "Go to OpenGL homepage")
+[![CUDA](https://img.shields.io/badge/cuda-grey?style=for-the-badge&logo=cuda)](https://developer.nvidia.com/cuda-toolkit "Go to CUDA-Toolkit homepage")
 [![C](https://img.shields.io/badge/c-grey?style=for-the-badge&logo=c)]()
 [![C++](https://img.shields.io/badge/c%2B%2B-grey?style=for-the-badge&logo=c%2B%2B)]()
 [![C#](https://img.shields.io/badge/C%23-grey?style=for-the-badge&logo=cshrp)]()
