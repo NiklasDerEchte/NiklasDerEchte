@@ -39,7 +39,7 @@ In addition to my professional expertise, I use my time to familiarize myself wi
 [![Unity](https://img.shields.io/badge/Unity-grey?style=for-the-badge&logo=unity)](https://unity.com/de "Go to Unity homepage")
 [![Unreal](https://img.shields.io/badge/unreal-grey?style=for-the-badge&logo=unrealengine)](https://www.unrealengine.com/de "Go to Unreal homepage")
 [![Godot Engine](https://img.shields.io/badge/Godot-grey?style=for-the-badge&logo=godot-engine)](https://godotengine.org/ "Go to GoDot homepage")
-[![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?logo=openapiinitiative&logoColor=white)](https://openai.com/ "Go to OpenAI homepage")
+[![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=openapiinitiative)](https://openai.com/ "Go to OpenAI homepage")
 
 https://img.shields.io/badge/OpenAPI-6BA539?logo=openapiinitiative&logoColor=white
 
