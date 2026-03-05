@@ -39,6 +39,10 @@ In addition to my professional expertise, I use my time to familiarize myself wi
 [![Unity](https://img.shields.io/badge/Unity-grey?style=for-the-badge&logo=unity)](https://unity.com/de "Go to Unity homepage")
 [![Unreal](https://img.shields.io/badge/unreal-grey?style=for-the-badge&logo=unrealengine)](https://www.unrealengine.com/de "Go to Unreal homepage")
 [![Godot Engine](https://img.shields.io/badge/Godot-grey?style=for-the-badge&logo=godot-engine)](https://godotengine.org/ "Go to GoDot homepage")
+[![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?logo=openapiinitiative&logoColor=white)](https://openai.com/ "Go to OpenAI homepage")
+
+https://img.shields.io/badge/OpenAPI-6BA539?logo=openapiinitiative&logoColor=white
+
 [![SteamVR](https://img.shields.io/badge/SteamVR-grey?style=for-the-badge&logo=steam)]()
 [![Android](https://img.shields.io/badge/android-grey?style=for-the-badge&logo=android)](https://www.android.com/intl/de_de/ "Go to Android homepage")
 [![IOS](https://img.shields.io/badge/ios-grey?style=for-the-badge&logo=ios)](https://developer.apple.com/documentation "Go to Apple dev homepage")
@@ -49,12 +53,8 @@ In addition to my professional expertise, I use my time to familiarize myself wi
 
 [![GameCore - Documentation](https://img.shields.io/badge/gamecore-Documentation-blue?style=for-the-badge)](https://gamecore.readthedocs.io/en/latest/ "Go to project documentation")
 
-[![contributions - welcome](https://img.shields.io/badge/contributions-welcome-blue)](/CONTRIBUTING.md "Go to contributions doc")
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NiklasDerEchte&hide=html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
+<!-- [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NiklasDerEchte&hide=html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
 <!-- [![Niklas GitHub stats](https://github-readme-stats.vercel.app/api?username=NiklasDerEchte)](https://github.com/anuraghazra/github-readme-stats) -->
-
 <!--
 **NiklasDerEchte/NiklasDerEchte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
