@@ -23,6 +23,7 @@ In addition to my professional expertise, I use my time to familiarize myself wi
 [![TypeScript](https://img.shields.io/badge/typescript-grey?style=for-the-badge&logo=typescript)](https://typescriptlang.org "Go to TypeScript homepage")
 [![Angular](https://img.shields.io/badge/angular-grey?style=for-the-badge&logo=angular)](https://angular.dev/ "Go to Angular dev homepage")
 [![JavaScript](https://img.shields.io/badge/javascript-grey?style=for-the-badge&logo=javascript)](https://www.javascript.com/ "Go to JavaScript homepage")
+[![Express.js](https://img.shields.io/badge/Express.js-grey?style=for-the-badge&logo=express)](https://expressjs.com/ "Go to Express.js homepage")
 [![Chart.js](https://img.shields.io/badge/Chart.js-grey?style=for-the-badge&logo=chartdotjs)](https://www.chartjs.org/ "Go to Chart.js homepage")
 [![Vue.js](https://img.shields.io/badge/vuedotjs-grey?style=for-the-badge&logo=vuedotjs)](https://vuejs.org/ "Go to Vue.js homepage")
 [![Three.js](https://img.shields.io/badge/threedotjs-grey?style=for-the-badge&logo=threedotjs)](https://threejs.org/ "Go to Three.js homepage")
@@ -39,10 +40,10 @@ In addition to my professional expertise, I use my time to familiarize myself wi
 [![Unity](https://img.shields.io/badge/Unity-grey?style=for-the-badge&logo=unity)](https://unity.com/de "Go to Unity homepage")
 [![Unreal](https://img.shields.io/badge/unreal-grey?style=for-the-badge&logo=unrealengine)](https://www.unrealengine.com/de "Go to Unreal homepage")
 [![Godot Engine](https://img.shields.io/badge/Godot-grey?style=for-the-badge&logo=godot-engine)](https://godotengine.org/ "Go to GoDot homepage")
-[![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=openapiinitiative)](https://openai.com/ "Go to OpenAI homepage")
-
-https://img.shields.io/badge/OpenAPI-6BA539?logo=openapiinitiative&logoColor=white
-
+[![OpenAPI](https://img.shields.io/badge/OpenAPI-grey?style=for-the-badge&logo=openapiinitiative)](https://openai.com/ "Go to OpenAI homepage")
+[![Postman](https://img.shields.io/badge/Postman-grey?style=for-the-badge&logo=postman)](https://www.postman.com/ "Go to Postman homepage")
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-grey?style=for-the-badge&logo=huggingface)](https://huggingface.co/wocke "Go to my Huggingface profile")
+[![Medium](https://img.shields.io/badge/Medium-grey?style=for-the-badge&logo=medium)](https://medium.com/@n.wocke "Go to my Medium profile")
 [![SteamVR](https://img.shields.io/badge/SteamVR-grey?style=for-the-badge&logo=steam)]()
 [![Android](https://img.shields.io/badge/android-grey?style=for-the-badge&logo=android)](https://www.android.com/intl/de_de/ "Go to Android homepage")
 [![IOS](https://img.shields.io/badge/ios-grey?style=for-the-badge&logo=ios)](https://developer.apple.com/documentation "Go to Apple dev homepage")
@@ -51,7 +52,8 @@ https://img.shields.io/badge/OpenAPI-6BA539?logo=openapiinitiative&logoColor=whi
 [![OS - macOS](https://img.shields.io/badge/OS-macOS-blue?logo=apple&logoColor=white)](https://www.apple.com/macos/ "Go to Apple homepage")
 [![OS - Windows](https://img.shields.io/badge/OS-Windows-blue?logo=windows&logoColor=white)](https://www.microsoft.com/ "Go to Microsoft homepage")
 
-[![GameCore - Documentation](https://img.shields.io/badge/gamecore-Documentation-blue?style=for-the-badge)](https://gamecore.readthedocs.io/en/latest/ "Go to project documentation")
+[![GameCore: Python game engine - Documentation](https://img.shields.io/badge/gamecore-Documentation-blue?style=for-the-badge)](https://gamecore.readthedocs.io/en/latest/ "GameCore: Python game engine - Documentation")
+[![TSpark: TypeScript ECS game engine - Documentation](https://img.shields.io/badge/tspark-Documentation-blue?style=for-the-badge)](https://niklaswockenfuss.de/tspark/ "TSpark: TypeScript ECS game engine - Documentation")
 
 <!-- [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NiklasDerEchte&hide=html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
 <!-- [![Niklas GitHub stats](https://github-readme-stats.vercel.app/api?username=NiklasDerEchte)](https://github.com/anuraghazra/github-readme-stats) -->
