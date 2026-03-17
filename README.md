@@ -54,6 +54,7 @@ In addition to my professional expertise, I use my time to familiarize myself wi
 
 [![GameCore: Python game engine - Documentation](https://img.shields.io/badge/gamecore-Documentation-blue?style=for-the-badge)](https://gamecore.readthedocs.io/en/latest/ "GameCore: Python game engine - Documentation")
 [![TSpark: TypeScript ECS game engine - Documentation](https://img.shields.io/badge/tspark-Documentation-blue?style=for-the-badge)](https://niklaswockenfuss.de/tspark/ "TSpark: TypeScript ECS game engine - Documentation")
+[![Support me on Patreon](https://img.shields.io/badge/patreon-support_me_❤-blue?style=for-the-badge)](https://patreon.com/wocke?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink "Support me on Patreon")
 
 <!-- [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NiklasDerEchte&hide=html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
 <!-- [![Niklas GitHub stats](https://github-readme-stats.vercel.app/api?username=NiklasDerEchte)](https://github.com/anuraghazra/github-readme-stats) -->
