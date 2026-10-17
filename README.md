@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-I am a passionate computer science enthusiast with a special focus on new technology and innovation in the field of ``robotics``, ``computer vision`` and ``AI``. With over five years of professional experience in web development, I have gained in-depth knowledge in the design and implementation of modern, user-friendly websites and web applications.
+I am a passionate computer science enthusiast with a special focus on new technology and innovation in the field of ``robotics``, ``computer vision`` and ``AI``. With over ten years of professional experience in web development, I have gained in-depth knowledge in the design and implementation of modern, user-friendly websites and web applications.
 
 In addition to my professional expertise, I use my time to familiarize myself with the diverse areas of technology - be it by exploring new programming languages, experimenting with different tools or delving into complex system architectures.
 
